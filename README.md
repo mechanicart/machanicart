@@ -7,7 +7,7 @@
 
 
 
-<p align="left">
+<p align="center">
 <img src="https://komarev.com/ghpvc/?username=maximakymenko" alt="mechanicart" />
 <img src="https://img.icons8.com/color/48/000000/javascript.png" width="20" height="20" alt='javascript'/>
 <img src="https://img.icons8.com/color/48/000000/typescript.png" width="20" height="20" alt='typescript'/>
